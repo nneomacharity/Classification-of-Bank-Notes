@@ -1,1 +1,1 @@
-# Case-Study-CE880
+# Classification of Bank Notes
